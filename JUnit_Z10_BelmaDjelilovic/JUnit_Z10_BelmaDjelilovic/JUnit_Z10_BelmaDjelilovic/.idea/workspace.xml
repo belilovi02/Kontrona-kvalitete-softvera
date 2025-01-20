@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9db97ec-2839-4ff3-934d-77ab7d5fda42" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O3Yqwy7aNKlsX9MqdFV3nS8Sdv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "G:/PTF/VI semestar/KKS/Zadaća/JUnit/Zadatak1"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ptf.rs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculatorTest">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ptf.rs.Main" />
+      <module name="Zadatak1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Zadatak1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ptf.rs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ptf.rs" />
+      <option name="MAIN_CLASS_NAME" value="ptf.rs.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Zadatak1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ptf.rs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ptf.rs" />
+      <option name="MAIN_CLASS_NAME" value="ptf.rs.ConvertorTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertorTest.fahrenheitToCelsius_ValidNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Zadatak1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ptf.rs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ptf.rs" />
+      <option name="MAIN_CLASS_NAME" value="ptf.rs.ConvertorTest" />
+      <option name="METHOD_NAME" value="fahrenheitToCelsius_ValidNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertorTest.fahrenheitToCelsius_ZeroValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Zadatak1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ptf.rs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ptf.rs" />
+      <option name="MAIN_CLASS_NAME" value="ptf.rs.ConvertorTest" />
+      <option name="METHOD_NAME" value="fahrenheitToCelsius_ZeroValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertorTest.inchToCm_OneInchValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Zadatak1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ptf.rs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ptf.rs" />
+      <option name="MAIN_CLASS_NAME" value="ptf.rs.ConvertorTest" />
+      <option name="METHOD_NAME" value="inchToCm_OneInchValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.CalculatorTest" />
+      <item itemvalue="JUnit.ConvertorTest" />
+      <item itemvalue="JUnit.ConvertorTest.fahrenheitToCelsius_ValidNegative" />
+      <item itemvalue="JUnit.ConvertorTest.fahrenheitToCelsius_ZeroValue" />
+      <item itemvalue="JUnit.ConvertorTest.inchToCm_OneInchValid" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.ConvertorTest" />
+        <item itemvalue="JUnit.ConvertorTest.fahrenheitToCelsius_ValidNegative" />
+        <item itemvalue="JUnit.ConvertorTest.fahrenheitToCelsius_ZeroValue" />
+        <item itemvalue="JUnit.ConvertorTest.inchToCm_OneInchValid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9db97ec-2839-4ff3-934d-77ab7d5fda42" name="Changes" comment="" />
+      <created>1680790931919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680790931919</updated>
+    </task>
+    <servers />
+  </component>
+</project>
